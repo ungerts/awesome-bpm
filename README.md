@@ -13,6 +13,11 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * Leymann, Frank; Roller, Dieter: Production Workflow: Concepts and Techniques. Prentice Hall PTR, 2000. ISBN 0–13–021753–0
 * Swenson, Keith D.: Mastering the Unpredictable: How Adaptive Case Management Will Revolutionize the Way That Knowledge Workers Get Things Done. Meghan-Kiffer Press, 2010. ISBN 978-0-929652-12-2
 * Dirk Slama; Ralph Nelius: Enterprise BPM: Erfolgsrezepte für unternehmensweites Prozessmanagement. dpunkt, 2001. ISBN-13: 978-3898646871
+* Tammo van Lessen, Daniel Lübcke, Jörg Nitzsche: Geschäftsprozesse automatisieren mit BPEL. dpunkt, 2011. ISBN-13: 978-3898646703
+* Mathias Weske: Business Process Management: Concepts, Languages, Architectures 
+2nd ed. 2012, XV, 403 p. 300 illus. Hardcover ISBN 978-3-642-28615-5
+* Real-Life BPMN: Using BPMN 2.0 to Analyze, Improve, and Automate Processes in Your Company. CreateSpace Independent Publishing Platform, 2014. ISBN-13: 978-1502972323
+* Jackob Freund, Bernd Rücker: Praxishandbuch BPMN 2.0. Carl Hanser Verlag GmbH & Co. KG; Auflage: 4., aktualisierte Auflage, 2014. ISBN-13: 978-3446442559
 
 ## BPM Platforms/Suites
 * [Appian BPM](http://www.appian.com/bpm-software/)
@@ -29,6 +34,7 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * [Pega 7 Platform](http://www.pega.com/products/pega-7)
 * [Red Hat JBoss BPM Suite](http://www.jboss.org/products/bpmsuite/overview/)
 * [Tibco Active Matrix BPM](http://www.tibco.com/products/automation/business-process-management/activematrix-bpm)
+* [Edorasware](http://www.edorasware.com)
 
 ## Certifications
 * [OMG Certified Expert in BPM (OCEB) 2](http://www.omg.org/oceb-2/index.htm)
