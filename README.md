@@ -69,6 +69,7 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * [MID Process Note](http://www.mid.de/en/process-note.html)
 * [MID Innovator for Business Analysts](http://www.mid.de/en/products/innovator-for-business-analysts.html)
 * [Modelio](https://www.modelio.org/)
+* [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/)
 
 ## Monitoring Tools
 * [IBM Business Monitor](http://www-03.ibm.com/software/products/de/business-monitor)
