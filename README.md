@@ -70,6 +70,7 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * [MID Innovator for Business Analysts](http://www.mid.de/en/products/innovator-for-business-analysts.html)
 * [Modelio](https://www.modelio.org/)
 * [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/)
+* [Trisotech](http://www.trisotech.com)
 
 ## Monitoring Tools
 * [IBM Business Monitor](http://www-03.ibm.com/software/products/de/business-monitor)
