@@ -35,6 +35,7 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * [Red Hat JBoss BPM Suite](http://www.jboss.org/products/bpmsuite/overview/)
 * [Tibco Active Matrix BPM](http://www.tibco.com/products/automation/business-process-management/activematrix-bpm)
 * [Edorasware](http://www.edorasware.com)
+* [SoftProject X4 BPM Suite](http://www.x4bpm.com/bpm-suite.html)
 
 ## Certifications
 * [OMG Certified Expert in BPM (OCEB) 2](http://www.omg.org/oceb-2/index.htm)
