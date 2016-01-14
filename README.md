@@ -94,3 +94,4 @@ Version 2.0](http://www.omg.org/spec/BPMN/2.0/)
 * [BPELUnit](http://bpelunit.github.io)
 * [BPMNspector](https://github.com/uniba-dsg/BPMNspector) - Static analysis for BPMN 2.0 process models
 * [BPP](https://github.com/uniba-dsg/bpp) - The BPEL Portability Profile
+* [BenchFlow](https://github.com/benchflow/benchflow)
