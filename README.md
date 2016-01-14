@@ -8,6 +8,7 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 
 ## Alliances
 * [Enterprise BPM Alliance](http://bpm-alliance.org/bpm-alliance/)
+* [Workflow Management Coalition](http://www.wfmc.org)
 
 ## Books
 * Leymann, Frank; Roller, Dieter: Production Workflow: Concepts and Techniques. Prentice Hall PTR, 2000. ISBN 0–13–021753–0
