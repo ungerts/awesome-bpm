@@ -73,6 +73,7 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * [Modelio](https://www.modelio.org/)
 * [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/)
 * [Trisotech](http://www.trisotech.com)
+* [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html)
 
 ## Monitoring Tools
 * [IBM Business Monitor](http://www-03.ibm.com/software/products/de/business-monitor)
