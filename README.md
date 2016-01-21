@@ -64,6 +64,8 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * [Aris Business Process Analysis](http://www.softwareag.com/corporate/products/aris_alfabet/bpa/overview/default.asp)
 * [Bizagi Modeler](http://www.bizagi.com/en/products/bpm-suite/modeler)
 * [bpmn.io](http://bpmn.io/)
+* [Eclipse BPMN Modeler](https://www.eclipse.org/bpmn2-modeler/). Actively developed and high BPMN conformance.
+* [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html)
 * [Fico DMN Modeler](http://www.ficoanalyticcloud.com/platform/fico-dmn-modeler/)
 * [Signavio Process Editor](http://www.signavio.com/products/process-editor/)
 * [Signavio Decision Manager](http://www.signavio.com/products/decision-manager/)
@@ -73,7 +75,10 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * [Modelio](https://www.modelio.org/)
 * [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/)
 * [Trisotech](http://www.trisotech.com)
-* [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html)
+* [Yaoqiang BPMN Editor](http://bpmn.sourceforge.net/). Actively developed. Needs [some tweaks](https://github.com/koppor/ybpmn-fix) to generate standard-conformant BPMN models.
+
+### Supportive Tooling
+* [BPMNspector-fixSeqFlow](https://github.com/matthiasgeiger/BPMNspector-fixSeqFlow). Fixing Sequence Flow Issues in BPMN models.
 
 ## Monitoring Tools
 * [IBM Business Monitor](http://www-03.ibm.com/software/products/de/business-monitor)
