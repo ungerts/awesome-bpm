@@ -51,6 +51,10 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * [inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
 * [jBPM](http://www.jbpm.org)
 * [Onedecison (DMN)](http://onedecision.io/)
+ 
+## Guidelines
+ * [BPMN 2.0 Best Practices](https://camunda.org/bpmn/examples/)
+ * [BPMN Modeling Guidelines](http://www.modeling-guidelines.org/)
 
 ## Methods
 * [Business Process Management Framework](http://bpm-alliance.org/bpmf/)
