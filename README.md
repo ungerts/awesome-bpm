@@ -55,6 +55,7 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 ## Guidelines
  * [BPMN 2.0 Best Practices](https://camunda.org/bpmn/examples/)
  * [BPMN Modeling Guidelines](http://www.modeling-guidelines.org/)
+ * [Best practices in modeling](http://help.bizagi.com/processmodeler/en/index.html?best_practices_in_modeling.htm)
 
 ## Methods
 * [Business Process Management Framework](http://bpm-alliance.org/bpmf/)
