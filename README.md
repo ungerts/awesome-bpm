@@ -81,6 +81,7 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/)
 * [Trisotech](http://www.trisotech.com)
 * [Yaoqiang BPMN Editor](http://bpmn.sourceforge.net/). Actively developed. Needs [some tweaks](https://github.com/koppor/ybpmn-fix) to generate standard-conformant BPMN models.
+* [Visual Paradigm](https://www.visual-paradigm.com/)
 
 ### Supportive Tooling
 * [BPMNspector-fixSeqFlow](https://github.com/matthiasgeiger/BPMNspector-fixSeqFlow). Fixing Sequence Flow Issues in BPMN models.
