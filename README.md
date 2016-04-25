@@ -101,6 +101,7 @@ Version 2.0](http://www.omg.org/spec/BPMN/2.0/)
 * [Web Services Business Process Execution Language Version 2.0](http://docs.oasis-open.org/wsbpel/2.0/OS/wsbpel-v2.0-OS.html)
 * [WS-BPEL Extension for People (BPEL4People) Specification Version 1.1](http://docs.oasis-open.org/bpel4people/bpel4people-1.1.html)
 * [Web Services – Human Task (WS-HumanTask) Specification Version 1.1](http://docs.oasis-open.org/bpel4people/ws-humantask-1.1-spec-cs-01.html)
+* [XML Process Definition Language (XPDL)](http://www.xpdl.org/)
 
 ## Testing/Validation
 * [betsy](https://github.com/uniba-dsg/betsy) - BPEL/BPMN Engine Test System
