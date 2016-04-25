@@ -56,6 +56,7 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
  * [BPMN 2.0 Best Practices](https://camunda.org/bpmn/examples/)
  * [BPMN Modeling Guidelines](http://www.modeling-guidelines.org/)
  * [Best practices in modeling](http://help.bizagi.com/processmodeler/en/index.html?best_practices_in_modeling.htm)
+ * [eCH-0158: BPMN-Modellierungskonventionen für die öffentliche Verwaltung (in German)](http://www.ech.ch/vechweb/page?p=dossier&documentNumber=eCH-0158&documentVersion=1.1)
 
 ## Methods
 * [Business Process Management Framework](http://bpm-alliance.org/bpmf/)
