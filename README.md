@@ -25,7 +25,7 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
 * [Bonita BPM](http://www.bonitasoft.com/products-v2#about-bonita-bpm)
 * [Bosch SI Inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
 * [Bosch SI Visual Rules](https://www.bosch-si.com/products/business-rules-management-brm/visual-rules.html)
-* [Effektif](http://www.effektif.com/)
+* [Signavio Workflow](http://www.signavio.com/products/workflow/)
 * [IBM Business Process Manager](http://www-03.ibm.com/software/products/de/business-process-manager-family)
 * [IBM Operational Decision Manager](http://www-03.ibm.com/software/products/en/odm)
 * [Intalio BPMS](http://www.intalio.com/products/bpms/overview/)
@@ -57,9 +57,11 @@ See [The definitive list of lists (of lists) curated on GitHub](https://github.c
  * [BPMN Modeling Guidelines](http://www.modeling-guidelines.org/)
  * [Best practices in modeling](http://help.bizagi.com/processmodeler/en/index.html?best_practices_in_modeling.htm)
  * [eCH-0158: BPMN-Modellierungskonventionen für die öffentliche Verwaltung (in German)](http://www.ech.ch/vechweb/page?p=dossier&documentNumber=eCH-0158&documentVersion=1.1)
+ * [APQC Process Classification Framework](https://www.apqc.org/pcf)
 
 ## Methods
 * [Business Process Management Framework](http://bpm-alliance.org/bpmf/)
+* [Behavior-driven Business Process Development with BPMN](https://speakerdeck.com/vanto/behavior-driven-business-process-development-with-bpmn)
 
 ## Mining
 * [Celonis](http://www.celonis.de/en/)
