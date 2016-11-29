@@ -1,10 +1,25 @@
-# Awesome BPM
+# Awesome BPM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of awesome Business Process Management (BPM) tools, engines, frameworks, resources and other awesomeness.
 
-A curated list of awesome Business Process Management (BPM) tools, engines, frameworks, resources and other awesomeness.
+Business Process Management ([BPM](https://en.wikipedia.org/wiki/Business_process_management)) is a discipline to improve the performance of a company by taking advantage of explicit business processes.
 
-See [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists) for more lists of any kind.
+Contributions welcome.
+Add links through pull requests or create an issue to start a discussion.
+
+## Contents
+
+- [Alliances](#alliances)
+- [Books](#books)
+- [BPM Platforms/Suites](#bpm-platformssuites)
+- [Engines](#engines)
+- [Guidelines](#guidelines)
+- [Methods](#methods)
+- [Mining](#mining)
+- [Modeling Tools](#modeling-tools)
+- [Process Libraries](#process-libraries)
+- [Standards](#standards)
+- [Testing/Validation](#testingvalidation)
 
 ## Alliances
 * [Enterprise BPM Alliance](http://bpm-alliance.org/bpm-alliance/)
