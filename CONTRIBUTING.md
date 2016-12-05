@@ -4,7 +4,7 @@
 
 * Insert a new entry alphabetically
 * New categories or improvements to the existing categorization are welcome
-* Use the following format: `[List Name](link) - additional information (if exists)`
+* Use the following format: `[List Name](link) - additional information.`
 * Check your spelling and grammar
 * Make sure your text editor is set to remove trailing whitespace
 * The pull request and commit should have a useful title
