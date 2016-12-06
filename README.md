@@ -33,6 +33,9 @@ Add links through pull requests or create an issue to start a discussion.
 * Mathias Weske: Business Process Management: Concepts, Languages, Architectures, 2nd ed. 2012, XV, 403 p. 300 illus. Hardcover ISBN [978-3-642-28615-5](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-28615-5) - Foundation on business process management ranging from theory to practical applications.
 * Real-Life BPMN: Using BPMN 2.0 to Analyze, Improve, and Automate Processes in Your Company. CreateSpace Independent Publishing Platform, 2014. ISBN-13: [978-1502972323](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-28615-5) - Describes using BPMN 2.0 to work on processes in companies.
 * Jakob Freund, Bernd Rücker: Praxishandbuch BPMN 2.0. Carl Hanser Verlag GmbH & Co. KG; Auflage: 4., aktualisierte Auflage, 2014. ISBN-13: [978-3446442559](https://en.wikipedia.org/wiki/Special:BookSources/978-3446442559) - Awesome German book on using the executable part of BPMN.
+* Bruce Silver: BPMN Method and Style, Second Edition, with BPMN Implementer's Guide, 2012. ISBN-13: [978-0982368114](https://en.wikipedia.org/wiki/Special:BookSources/978-0982368114) - Great book on BPMN 2.0, recommended reference regarding modelling methodoligy and style.
+* Bruce Silver: DMN Method and Style: The Practitioner's Guide to Decision Modeling with Business Rules, 2016. ISBN-13: [978-0982368152](https://en.wikipedia.org/wiki/Special:BookSources/978-0982368152) - Follows the same approach like in Silver's BPMN book, but for DMN.
+
 
 ## MOOCs
 * [BPMN Meets DMN: Business Process and Decision Modeling (openhpi, Mathias Weske)](https://open.hpi.de/courses/bpm2016)
