@@ -34,6 +34,12 @@ Add links through pull requests or create an issue to start a discussion.
 * Real-Life BPMN: Using BPMN 2.0 to Analyze, Improve, and Automate Processes in Your Company. CreateSpace Independent Publishing Platform, 2014. ISBN-13: [978-1502972323](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-28615-5) - Describes using BPMN 2.0 to work on processes in companies.
 * Jakob Freund, Bernd Rücker: Praxishandbuch BPMN 2.0. Carl Hanser Verlag GmbH & Co. KG; Auflage: 4., aktualisierte Auflage, 2014. ISBN-13: [978-3446442559](https://en.wikipedia.org/wiki/Special:BookSources/978-3446442559) - Awesome German book on using the executable part of BPMN.
 
+## MOOCs
+* [BPMN Meets DMN: Business Process and Decision Modeling (openhpi, Mathias Weske)](https://open.hpi.de/courses/bpm2016)
+
+## Certifications
+* [OMG Certified Expert in BPM (OCEB) 2](http://www.omg.org/oceb-2/index.htm)
+
 ## BPM Platforms/Suites
 * [Appian BPM](http://www.appian.com/bpm-software/)
 * [Bonita BPM](http://www.bonitasoft.com/products-v2#about-bonita-bpm)
@@ -51,9 +57,6 @@ Add links through pull requests or create an issue to start a discussion.
 * [Tibco Active Matrix BPM](http://www.tibco.com/products/automation/business-process-management/activematrix-bpm)
 * [Edorasware](http://www.edorasware.com)
 * [SoftProject X4 BPM Suite](http://www.x4bpm.com/bpm-suite.html)
-
-## Certifications
-* [OMG Certified Expert in BPM (OCEB) 2](http://www.omg.org/oceb-2/index.htm)
 
 ## Engines
 * [ActiveVOS](http://www.activevos.com/)
