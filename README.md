@@ -26,19 +26,21 @@ Add links through pull requests or create an issue to start a discussion.
 * [Workflow Management Coalition](http://www.wfmc.org)
 
 ## Books
-* Leymann, Frank; Roller, Dieter: Production Workflow: Concepts and Techniques. Prentice Hall PTR, 2000. ISBN [0–13–021753–0](https://en.wikipedia.org/wiki/Special:BookSources/0130217530) - This is the first book on enterprise-grade workflows. The concepts are still valid todday.
-* Swenson, Keith D.: Mastering the Unpredictable: How Adaptive Case Management Will Revolutionize the Way That Knowledge Workers Get Things Done. Meghan-Kiffer Press, 2010. ISBN [978-0-929652-12-2](https://en.wikipedia.org/wiki/Special:BookSources/978-0-929652-12-2) - Presents foundations on adaptive case management.
-* Dirk Slama; Ralph Nelius: Enterprise BPM: Erfolgsrezepte für unternehmensweites Prozessmanagement. dpunkt, 2001. ISBN-13: [978-3898646871](https://en.wikipedia.org/wiki/Special:BookSources/978-3898646871) - Awesome German book introducing the basic concepts on BPM.
-* Tammo van Lessen, Daniel Lübke, Jörg Nitzsche: Geschäftsprozesse automatisieren mit BPEL. dpunkt, 2011. ISBN-13: [978-3898646703](https://en.wikipedia.org/wiki/Special:BookSources/978-3898646703) - Awesome German book on making workflow happen using BPEL.
-* Mathias Weske: Business Process Management: Concepts, Languages, Architectures, 2nd ed. 2012, XV, 403 p. 300 illus. Hardcover ISBN [978-3-642-28615-5](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-28615-5) - Foundation on business process management ranging from theory to practical applications.
-* Real-Life BPMN: Using BPMN 2.0 to Analyze, Improve, and Automate Processes in Your Company. CreateSpace Independent Publishing Platform, 2014. ISBN-13: [978-1502972323](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-28615-5) - Describes using BPMN 2.0 to work on processes in companies.
-* Jakob Freund, Bernd Rücker: Praxishandbuch BPMN 2.0. Carl Hanser Verlag GmbH & Co. KG; Auflage: 4., aktualisierte Auflage, 2014. ISBN-13: [978-3446442559](https://en.wikipedia.org/wiki/Special:BookSources/978-3446442559) - Awesome German book on using the executable part of BPMN.
 * Bruce Silver: BPMN Method and Style, Second Edition, with BPMN Implementer's Guide, 2012. ISBN-13: [978-0982368114](https://en.wikipedia.org/wiki/Special:BookSources/978-0982368114) - Great book on BPMN 2.0, recommended reference regarding modelling methodoligy and style.
 * Bruce Silver: DMN Method and Style: The Practitioner's Guide to Decision Modeling with Business Rules, 2016. ISBN-13: [978-0982368152](https://en.wikipedia.org/wiki/Special:BookSources/978-0982368152) - Follows the same approach like in Silver's BPMN book, but for DMN.
+* Dirk Slama; Ralph Nelius: Enterprise BPM: Erfolgsrezepte für unternehmensweites Prozessmanagement. dpunkt, 2001. ISBN-13: [978-3898646871](https://en.wikipedia.org/wiki/Special:BookSources/978-3898646871) - Awesome German book introducing the basic concepts on BPM.
+* Frank Leymann, Dieter Roller: Production Workflow: Concepts and Techniques. Prentice Hall PTR, 2000. ISBN [0–13–021753–0](https://en.wikipedia.org/wiki/Special:BookSources/0130217530) - This is the first book on enterprise-grade workflows. The concepts are still valid todday.
+* Jakob Freund: Real-Life BPMN: Using BPMN 2.0 to Analyze, Improve, and Automate Processes in Your Company. CreateSpace Independent Publishing Platform, 2014. ISBN-13: [978-1502972323](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-28615-5) - Describes using BPMN 2.0 to work on processes in companies.
+* Jakob Freund, Bernd Rücker: Praxishandbuch BPMN 2.0. Carl Hanser Verlag GmbH & Co. KG; Auflage: 4., aktualisierte Auflage, 2014. ISBN-13: [978-3446442559](https://en.wikipedia.org/wiki/Special:BookSources/978-3446442559) - Awesome German book on using the executable part of BPMN.
+* Keith D. Swenson: Mastering the Unpredictable: How Adaptive Case Management Will Revolutionize the Way That Knowledge Workers Get Things Done. Meghan-Kiffer Press, 2010. ISBN [978-0-929652-12-2](https://en.wikipedia.org/wiki/Special:BookSources/978-0-929652-12-2) - Presents foundations on adaptive case management.
+* Marlon Dumas, Marcello La Rosa, Jan Mendling, Hajo A. Reijers: [Fundamentals of Business Process Management](http://fundamentals-of-bpm.org/). ISBN: [978-3-642-33142-8](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-33142-8) - An awesome text book teaching the background of BPM. It is used throughout the world in BPM lectures as basis.
+* Tammo van Lessen, Daniel Lübke, Jörg Nitzsche: Geschäftsprozesse automatisieren mit BPEL. dpunkt, 2011. ISBN-13: [978-3898646703](https://en.wikipedia.org/wiki/Special:BookSources/978-3898646703) - Awesome German book on making workflow happen using BPEL.
+* Mathias Weske: Business Process Management: Concepts, Languages, Architectures, 2nd ed. 2012, XV, 403 p. 300 illus. Hardcover ISBN [978-3-642-28615-5](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-28615-5) - Foundation on business process management ranging from theory to practical applications.
 
 
 ## MOOCs
-* [BPMN Meets DMN: Business Process and Decision Modeling (openhpi, Mathias Weske)](https://open.hpi.de/courses/bpm2016)
+* [BPMN Meets DMN: Business Process and Decision Modeling (openhpi, Mathias Weske)](https://open.hpi.de/courses/bpm2016) - An online course showing modeling using BPMN and DMN
+* [Fundamentals of Business Process Management](http://fundamentals-of-bpm.org/mooc/) - An online course covering the topic of the book "Fundamentals of Business Process Management".
 
 ## Certifications
 * [OMG Certified Expert in BPM (OCEB) 2](http://www.omg.org/oceb-2/index.htm)
