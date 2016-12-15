@@ -10,8 +10,10 @@ Add links through pull requests or create an issue to start a discussion.
 ## Contents
 
 - [Alliances](#alliances)
+- [Assessments](#assessments)
 - [Books](#books)
 - [BPM Platforms/Suites](#bpm-platformssuites)
+- [Comparisons](#comaprisons)
 - [Engines](#engines)
 - [Guidelines](#guidelines)
 - [Methods](#methods)
@@ -25,6 +27,9 @@ Add links through pull requests or create an issue to start a discussion.
 - [Enterprise BPM Alliance](http://bpm-alliance.org/bpm-alliance/)
 - [Workflow Management Coalition](http://www.wfmc.org)
 
+## Assessments
+- [http://www.bpm-maturitymodel.com](BPM Maturity Model) - Measures the majurity of BPM in a company.
+
 ## Books
 - Bruce Silver: BPMN Method and Style, Second Edition, with BPMN Implementer's Guide, 2012. ISBN-13: [978-0982368114](https://en.wikipedia.org/wiki/Special:BookSources/978-0982368114) - Great book on BPMN 2.0, recommended reference regarding modelling methodoligy and style.
 - Bruce Silver: DMN Method and Style: The Practitioner's Guide to Decision Modeling with Business Rules, 2016. ISBN-13: [978-0982368152](https://en.wikipedia.org/wiki/Special:BookSources/978-0982368152) - Follows the same approach like in Silver's BPMN book, but for DMN.
@@ -36,7 +41,6 @@ Add links through pull requests or create an issue to start a discussion.
 - Marlon Dumas, Marcello La Rosa, Jan Mendling, Hajo A. Reijers: [Fundamentals of Business Process Management](http://fundamentals-of-bpm.org/). ISBN: [978-3-642-33142-8](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-33142-8) - An awesome text book teaching the background of BPM. It is used throughout the world in BPM lectures as basis.
 - Tammo van Lessen, Daniel Lübke, Jörg Nitzsche: Geschäftsprozesse automatisieren mit BPEL. dpunkt, 2011. ISBN-13: [978-3898646703](https://en.wikipedia.org/wiki/Special:BookSources/978-3898646703) - Awesome German book on making workflow happen using BPEL.
 - Mathias Weske: Business Process Management: Concepts, Languages, Architectures, 2nd ed. 2012, XV, 403 p. 300 illus. Hardcover ISBN [978-3-642-28615-5](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-28615-5) - Foundation on business process management ranging from theory to practical applications.
-
 
 ## MOOCs
 - [BPMN Meets DMN: Business Process and Decision Modeling (openhpi, Mathias Weske)](https://open.hpi.de/courses/bpm2016) - An online course showing modeling using BPMN and DMN
@@ -63,6 +67,8 @@ Add links through pull requests or create an issue to start a discussion.
 - [Edorasware](http://www.edorasware.com)
 - [SoftProject X4 BPM Suite](http://www.x4bpm.com/bpm-suite.html)
 
+## Comparisons
+- [Tool Markt Monitor](http://www.toolmarktmonitor.de/) - A German survey on available BPM tooling. They update it yearly and provide a comprehensive survey and comparison of tools.
 
 ## Engines
 - [ActiveVOS](http://www.activevos.com/)
