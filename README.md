@@ -91,6 +91,7 @@ Add links through pull requests or create an issue to start a discussion.
 ## Methods
 - [Business Process Management Framework](http://bpm-alliance.org/bpmf/)
 - [Behavior-driven Business Process Development with BPMN](https://speakerdeck.com/vanto/behavior-driven-business-process-development-with-bpmn)
+- [Workflow Patterns](http://www.workflowpatterns.com/) - NOT BPMN specific, but it does list BPMN compatibility for those patterns
 
 ## Mining
 - [Celonis](http://www.celonis.de/en/)
