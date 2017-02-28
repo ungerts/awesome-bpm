@@ -28,7 +28,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [Workflow Management Coalition](http://www.wfmc.org)
 
 ## Assessments
-- [http://www.bpm-maturitymodel.com](BPM Maturity Model) - Measures the majurity of BPM in a company.
+- [BPM Maturity Model](http://www.bpm-maturitymodel.com) - Measures the majurity of BPM in a company.
 
 ## Books
 - Bruce Silver: BPMN Method and Style, Second Edition, with BPMN Implementer's Guide, 2012. ISBN-13: [978-0982368114](https://en.wikipedia.org/wiki/Special:BookSources/978-0982368114) - Great book on BPMN 2.0, recommended reference regarding modelling methodoligy and style.
