@@ -102,6 +102,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [Aris Business Process Analysis](http://www.softwareag.com/corporate/products/aris_alfabet/bpa/overview/default.asp)
 - [Bizagi Modeler](http://www.bizagi.com/en/products/bpm-suite/modeler)
 - [bpmn.io](http://bpmn.io/)
+- [Cawemo](https://cawemo.com/)
 - [Eclipse BPMN Modeler](https://www.eclipse.org/bpmn2-modeler/). Actively developed and high BPMN conformance.
 - [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html)
 - [Fico DMN Modeler](http://www.ficoanalyticcloud.com/platform/fico-dmn-modeler/)
