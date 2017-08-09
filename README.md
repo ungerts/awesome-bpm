@@ -80,6 +80,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
 - [jBPM](http://www.jbpm.org)
 - [Onedecison (DMN)](http://onedecision.io/)
+- [zeebe](https://zeebe.io/)
  
 ## Guidelines
 - [BPMN 2.0 Best Practices](https://camunda.org/bpmn/examples/)
