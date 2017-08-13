@@ -115,16 +115,16 @@ Add links through pull requests or create an issue to start a discussion.
 - [Eclipse BPMN Modeler](https://www.eclipse.org/bpmn2-modeler/). Actively developed and high BPMN conformance.
 - [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html)
 - [Fico DMN Modeler](http://www.ficoanalyticcloud.com/platform/fico-dmn-modeler/)
+- [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/)
 - [Signavio Process Editor](http://www.signavio.com/products/process-editor/)
 - [Signavio Decision Manager](http://www.signavio.com/products/decision-manager/)
 - [Microsoft Visio 2013](https://blogs.office.com/2012/11/19/introducing-bpmn-2-0-in-visio/)
 - [MID Process Note](http://www.mid.de/en/process-note.html)
 - [MID Innovator for Business Analysts](http://www.mid.de/en/products/innovator-for-business-analysts.html)
 - [Modelio](https://www.modelio.org/)
-- [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/)
 - [Trisotech](http://www.trisotech.com)
-- [Yaoqiang BPMN Editor](http://bpmn.sourceforge.net/). Actively developed. Needs [some tweaks](https://github.com/koppor/ybpmn-fix) to generate standard-conformant BPMN models.
 - [Visual Paradigm](https://www.visual-paradigm.com/)
+- [Yaoqiang BPMN Editor](http://bpmn.sourceforge.net/). Actively developed. Needs [some tweaks](https://github.com/koppor/ybpmn-fix) to generate standard-conformant BPMN models.
 
 ### Supportive Tooling
 - [BPMNspector-fixSeqFlow](https://github.com/matthiasgeiger/BPMNspector-fixSeqFlow). Fixing Sequence Flow Issues in BPMN models.
@@ -145,9 +145,9 @@ Add links through pull requests or create an issue to start a discussion.
 - [XML Process Definition Language (XPDL)](http://www.xpdl.org/)
 
 ## Testing/Validation
+- [BenchFlow](https://github.com/benchflow/benchflow)
 - [betsy](https://github.com/uniba-dsg/betsy) - BPEL/BPMN Engine Test System
 - [BPELlint](https://github.com/uniba-dsg/BPELlint) - Validation tool which statically analyzes BPEL files using the statical analysis rules from the BPEL 2.0 specification. Also available as [IntelliJ IDEA plugin](https://github.com/uniba-dsg/BPELlint-idea)
 - [BPELUnit](http://bpelunit.github.io)
 - [BPMNspector](https://github.com/uniba-dsg/BPMNspector) - Static analysis for BPMN 2.0 process models
 - [BPP](https://github.com/uniba-dsg/bpp) - The BPEL Portability Profile
-- [BenchFlow](https://github.com/benchflow/benchflow)
