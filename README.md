@@ -19,9 +19,9 @@ Add links through pull requests or create an issue to start a discussion.
 - [Comparisons](#comparisons)
 - [Engines](#engines)
 - [Guidelines](#guidelines)
+- [Learning BPM](#learning-bpm)
 - [Methods](#methods)
 - [Mining](#mining)
-- [MOOCs](#moocs)
 - [Modeling Tools](#modeling-tools)
   * [Supportive Tooling](#supportive-tooling)
 - [Monitoring Tools](#monitoring-tools)
@@ -94,6 +94,11 @@ Add links through pull requests or create an issue to start a discussion.
 - [eCH-0158: BPMN-Modellierungskonventionen für die öffentliche Verwaltung (in German)](http://www.ech.ch/vechweb/page?p=dossier&documentNumber=eCH-0158&documentVersion=1.1)
 - [APQC Process Classification Framework](https://www.apqc.org/pcf)
 
+## Learning BPM
+- [BPMN 2.0 Poster](http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf) - Poster containing all symbols of BPMN 2.0 including a short explanation.
+- [BPMN Meets DMN: Business Process and Decision Modeling (openhpi, Mathias Weske)](https://open.hpi.de/courses/bpm2016) - An online course showing modeling using BPMN and DMN.
+- [Fundamentals of Business Process Management](http://fundamentals-of-bpm.org/mooc/) - An online course covering the topic of the book "Fundamentals of Business Process Management".
+
 ## Methods
 - [Business Process Management Framework](http://bpm-alliance.org/bpmf/)
 - [Behavior-driven Business Process Development with BPMN](https://speakerdeck.com/vanto/behavior-driven-business-process-development-with-bpmn)
@@ -103,10 +108,6 @@ Add links through pull requests or create an issue to start a discussion.
 - [Celonis](http://www.celonis.de/en/)
 - [Disco](https://fluxicon.com/disco/)
 - [ProM Tools](http://www.promtools.org/doku.php)
-
-## MOOCs
-- [BPMN Meets DMN: Business Process and Decision Modeling (openhpi, Mathias Weske)](https://open.hpi.de/courses/bpm2016) - An online course showing modeling using BPMN and DMN
-- [Fundamentals of Business Process Management](http://fundamentals-of-bpm.org/mooc/) - An online course covering the topic of the book "Fundamentals of Business Process Management".
 
 ## Modeling Tools
 - [Aris Business Process Analysis](http://www.softwareag.com/corporate/products/aris_alfabet/bpa/overview/default.asp)
