@@ -81,7 +81,6 @@ Add links through pull requests or create an issue to start a discussion.
 - [Apache ODE](http://ode.apache.org)
 - [Bizagi Engine](http://www.bizagi.com/en/products/bpm-suite/engine)
 - [Camunda BPM](https://camunda.org)
-- [Eclipse Stardust](https://www.eclipse.org/stardust/)
 - [inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
 - [jBPM](http://www.jbpm.org)
 - [Onedecison (DMN)](http://onedecision.io/)
