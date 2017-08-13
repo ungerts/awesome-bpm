@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+We welcome awesome additions. Please shortly explain why your addition is awesome.
+
 ## Adding to this list
 
 * Insert a new entry **alphabetically**
