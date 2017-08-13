@@ -9,19 +9,27 @@ Add links through pull requests or create an issue to start a discussion.
 
 ## Contents
 
+<!-- toc -->
+
 - [Alliances](#alliances)
 - [Assessments](#assessments)
 - [Books](#books)
 - [BPM Platforms/Suites](#bpm-platformssuites)
-- [Comparisons](#comaprisons)
+- [Certifications](#certifications)
+- [Comparisons](#comparisons)
 - [Engines](#engines)
 - [Guidelines](#guidelines)
 - [Methods](#methods)
 - [Mining](#mining)
+- [MOOCs](#moocs)
 - [Modeling Tools](#modeling-tools)
+  * [Supportive Tooling](#supportive-tooling)
+- [Monitoring Tools](#monitoring-tools)
 - [Process Libraries](#process-libraries)
 - [Standards](#standards)
 - [Testing/Validation](#testingvalidation)
+
+<!-- tocstop -->
 
 ## Alliances
 - [Enterprise BPM Alliance](http://bpm-alliance.org/bpm-alliance/)
@@ -42,13 +50,6 @@ Add links through pull requests or create an issue to start a discussion.
 - Tammo van Lessen, Daniel Lübke, Jörg Nitzsche: Geschäftsprozesse automatisieren mit BPEL. dpunkt, 2011. ISBN-13: [978-3898646703](https://en.wikipedia.org/wiki/Special:BookSources/978-3898646703) - Awesome German book on making workflow happen using BPEL.
 - Mathias Weske: Business Process Management: Concepts, Languages, Architectures, 2nd ed. 2012, XV, 403 p. 300 illus. Hardcover ISBN [978-3-642-28615-5](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-28615-5) - Foundation on business process management ranging from theory to practical applications.
 
-## MOOCs
-- [BPMN Meets DMN: Business Process and Decision Modeling (openhpi, Mathias Weske)](https://open.hpi.de/courses/bpm2016) - An online course showing modeling using BPMN and DMN
-- [Fundamentals of Business Process Management](http://fundamentals-of-bpm.org/mooc/) - An online course covering the topic of the book "Fundamentals of Business Process Management".
-
-## Certifications
-- [OMG Certified Expert in BPM (OCEB) 2](http://www.omg.org/oceb-2/index.htm)
-
 ## BPM Platforms/Suites
 - [Appian BPM](http://www.appian.com/bpm-software/)
 - [Bonita BPM](http://www.bonitasoft.com/products-v2#about-bonita-bpm)
@@ -66,6 +67,9 @@ Add links through pull requests or create an issue to start a discussion.
 - [Tibco Active Matrix BPM](http://www.tibco.com/products/automation/business-process-management/activematrix-bpm)
 - [Edorasware](http://www.edorasware.com)
 - [SoftProject X4 BPM Suite](http://www.x4bpm.com/bpm-suite.html)
+
+## Certifications
+- [OMG Certified Expert in BPM (OCEB) 2](http://www.omg.org/oceb-2/index.htm)
 
 ## Comparisons
 - [Tool Markt Monitor](http://www.toolmarktmonitor.de/) - A German survey on available BPM tooling. They update it yearly and provide a comprehensive survey and comparison of tools.
@@ -98,6 +102,10 @@ Add links through pull requests or create an issue to start a discussion.
 - [Celonis](http://www.celonis.de/en/)
 - [Disco](https://fluxicon.com/disco/)
 - [ProM Tools](http://www.promtools.org/doku.php)
+
+## MOOCs
+- [BPMN Meets DMN: Business Process and Decision Modeling (openhpi, Mathias Weske)](https://open.hpi.de/courses/bpm2016) - An online course showing modeling using BPMN and DMN
+- [Fundamentals of Business Process Management](http://fundamentals-of-bpm.org/mooc/) - An online course covering the topic of the book "Fundamentals of Business Process Management".
 
 ## Modeling Tools
 - [Aris Business Process Analysis](http://www.softwareag.com/corporate/products/aris_alfabet/bpa/overview/default.asp)
