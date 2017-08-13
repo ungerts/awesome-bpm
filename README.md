@@ -80,7 +80,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [Activiti](http://activiti.org/)
 - [Apache ODE](http://ode.apache.org)
 - [Bizagi Engine](http://www.bizagi.com/en/products/bpm-suite/engine)
-- [Camunda BPM](https://camunda.org)
+- [Camunda BPM](https://camunda.org) - A production-ready BPMN engine used in many German companies, such as 1&1 Internet and Zalando.
 - [inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
 - [jBPM](http://www.jbpm.org)
 - [Onedecison (DMN)](http://onedecision.io/)
