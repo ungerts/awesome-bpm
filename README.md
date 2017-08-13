@@ -72,6 +72,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [OMG Certified Expert in BPM (OCEB) 2](http://www.omg.org/oceb-2/index.htm)
 
 ## Comparisons
+- [BPMN Tool Matrix](https://bpmnmatrix.github.io/) - Github-hosted comparison of popular BPMN 2.0 tooling.
 - [Tool Markt Monitor](http://www.toolmarktmonitor.de/) - A German survey on available BPM tooling. They update it yearly and provide a comprehensive survey and comparison of tools.
 
 ## Engines
