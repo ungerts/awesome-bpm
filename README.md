@@ -125,9 +125,10 @@ Add links through pull requests or create an issue to start a discussion.
 - [Modelio](https://www.modelio.org/)
 - [Trisotech](http://www.trisotech.com)
 - [Visual Paradigm](https://www.visual-paradigm.com/)
-- [Yaoqiang BPMN Editor](http://bpmn.sourceforge.net/). Actively developed. Needs [some tweaks](https://github.com/koppor/ybpmn-fix) to generate standard-conformant BPMN models.
+- [Yaoqiang BPMN Editor](http://bpmn.sourceforge.net/) - A desktop BPMN modelling application very close to the standard and supporting all elements.
 
 ### Supportive Tooling
+- [BPMeter](http://benchflow.inf.usi.ch/bpmeter) - Measure the size and structural complexity of your BPMN models through a simple Web application.
 - [BPMNspector-fixSeqFlow](https://github.com/matthiasgeiger/BPMNspector-fixSeqFlow). Fixing Sequence Flow Issues in BPMN models.
 
 ## Monitoring Tools
