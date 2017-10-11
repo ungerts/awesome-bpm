@@ -9,19 +9,27 @@ Add links through pull requests or create an issue to start a discussion.
 
 ## Contents
 
+<!-- toc -->
+
 - [Alliances](#alliances)
 - [Assessments](#assessments)
 - [Books](#books)
 - [BPM Platforms/Suites](#bpm-platformssuites)
-- [Comparisons](#comaprisons)
+- [Certifications](#certifications)
+- [Comparisons](#comparisons)
 - [Engines](#engines)
 - [Guidelines](#guidelines)
+- [Learning BPM](#learning-bpm)
 - [Methods](#methods)
 - [Mining](#mining)
 - [Modeling Tools](#modeling-tools)
+  * [Supportive Tooling](#supportive-tooling)
+- [Monitoring Tools](#monitoring-tools)
 - [Process Libraries](#process-libraries)
 - [Standards](#standards)
 - [Testing/Validation](#testingvalidation)
+
+<!-- tocstop -->
 
 ## Alliances
 - [Enterprise BPM Alliance](http://bpm-alliance.org/bpm-alliance/)
@@ -72,7 +80,11 @@ Add links through pull requests or create an issue to start a discussion.
 - [Edorasware](http://www.edorasware.com)
 - [SoftProject X4 BPM Suite](http://www.x4bpm.com/bpm-suite.html)
 
+## Certifications
+- [OMG Certified Expert in BPM (OCEB) 2](http://www.omg.org/oceb-2/index.htm)
+
 ## Comparisons
+- [BPMN Tool Matrix](https://bpmnmatrix.github.io/) - Github-hosted comparison of popular BPMN 2.0 tooling.
 - [Tool Markt Monitor](http://www.toolmarktmonitor.de/) - A German survey on available BPM tooling. They update it yearly and provide a comprehensive survey and comparison of tools.
 
 ## Engines
@@ -80,8 +92,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [Activiti](http://activiti.org/)
 - [Apache ODE](http://ode.apache.org)
 - [Bizagi Engine](http://www.bizagi.com/en/products/bpm-suite/engine)
-- [Camunda BPM](https://camunda.org)
-- [Eclipse Stardust](https://www.eclipse.org/stardust/)
+- [Camunda BPM](https://camunda.org) - A production-ready BPMN engine used in many German companies, such as 1&1 Internet and Zalando.
 - [inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
 - [jBPM](http://www.jbpm.org)
 - [Onedecison (DMN)](http://onedecision.io/)
@@ -94,6 +105,11 @@ Add links through pull requests or create an issue to start a discussion.
 - [Best practices in modeling](http://help.bizagi.com/processmodeler/en/index.html?best_practices_in_modeling.htm)
 - [eCH-0158: BPMN-Modellierungskonventionen für die öffentliche Verwaltung (in German)](http://www.ech.ch/vechweb/page?p=dossier&documentNumber=eCH-0158&documentVersion=1.1)
 - [APQC Process Classification Framework](https://www.apqc.org/pcf)
+
+## Learning BPM
+- [BPMN 2.0 Poster](http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf) - Poster containing all symbols of BPMN 2.0 including a short explanation.
+- [BPMN Meets DMN: Business Process and Decision Modeling (openhpi, Mathias Weske)](https://open.hpi.de/courses/bpm2016) - An online course showing modeling using BPMN and DMN.
+- [Fundamentals of Business Process Management](http://fundamentals-of-bpm.org/mooc/) - An online course covering the topic of the book "Fundamentals of Business Process Management".
 
 ## Methods
 - [Business Process Management Framework](http://bpm-alliance.org/bpmf/)
@@ -113,18 +129,19 @@ Add links through pull requests or create an issue to start a discussion.
 - [Eclipse BPMN Modeler](https://www.eclipse.org/bpmn2-modeler/). Actively developed and high BPMN conformance.
 - [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html)
 - [Fico DMN Modeler](http://www.ficoanalyticcloud.com/platform/fico-dmn-modeler/)
+- [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/)
 - [Signavio Process Editor](http://www.signavio.com/products/process-editor/)
 - [Signavio Decision Manager](http://www.signavio.com/products/decision-manager/)
 - [Microsoft Visio 2013](https://blogs.office.com/2012/11/19/introducing-bpmn-2-0-in-visio/)
 - [MID Process Note](http://www.mid.de/en/process-note.html)
 - [MID Innovator for Business Analysts](http://www.mid.de/en/products/innovator-for-business-analysts.html)
 - [Modelio](https://www.modelio.org/)
-- [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/)
 - [Trisotech](http://www.trisotech.com)
-- [Yaoqiang BPMN Editor](http://bpmn.sourceforge.net/). Actively developed. Needs [some tweaks](https://github.com/koppor/ybpmn-fix) to generate standard-conformant BPMN models.
 - [Visual Paradigm](https://www.visual-paradigm.com/)
+- [Yaoqiang BPMN Editor](http://bpmn.sourceforge.net/) - A desktop BPMN modelling application very close to the standard and supporting all elements.
 
 ### Supportive Tooling
+- [BPMeter](http://benchflow.inf.usi.ch/bpmeter) - Measure the size and structural complexity of your BPMN models through a simple Web application.
 - [BPMNspector-fixSeqFlow](https://github.com/matthiasgeiger/BPMNspector-fixSeqFlow). Fixing Sequence Flow Issues in BPMN models.
 
 ## Monitoring Tools
@@ -143,9 +160,9 @@ Add links through pull requests or create an issue to start a discussion.
 - [XML Process Definition Language (XPDL)](http://www.xpdl.org/)
 
 ## Testing/Validation
+- [BenchFlow](https://github.com/benchflow/benchflow)
 - [betsy](https://github.com/uniba-dsg/betsy) - BPEL/BPMN Engine Test System
 - [BPELlint](https://github.com/uniba-dsg/BPELlint) - Validation tool which statically analyzes BPEL files using the statical analysis rules from the BPEL 2.0 specification. Also available as [IntelliJ IDEA plugin](https://github.com/uniba-dsg/BPELlint-idea)
 - [BPELUnit](http://bpelunit.github.io)
 - [BPMNspector](https://github.com/uniba-dsg/BPMNspector) - Static analysis for BPMN 2.0 process models
 - [BPP](https://github.com/uniba-dsg/bpp) - The BPEL Portability Profile
-- [BenchFlow](https://github.com/benchflow/benchflow)
