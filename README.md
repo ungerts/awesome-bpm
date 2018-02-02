@@ -51,8 +51,8 @@ Add links through pull requests or create an issue to start a discussion.
 - Mathias Weske: Business Process Management: Concepts, Languages, Architectures, 2nd ed. 2012, XV, 403 p. 300 illus. Hardcover ISBN [978-3-642-28615-5](https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-28615-5) - Foundation on business process management ranging from theory to practical applications.
 
 ## BPM Platforms/Suites
-- [Appian BPM](http://www.appian.com/bpm-software/)
-- [Bonita BPM](http://www.bonitasoft.com/products-v2#about-bonita-bpm)
+- [Appian BPM](http://www.appian.com/bpm-software/) - An all-in-one BPM solution, the "Leader in Low-Code BPM".
+- [Bonita BPM](http://www.bonitasoft.com/products-v2#about-bonita-bpm) - A comprehensive BPM suite.
 - [Bosch SI Inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
 - [Bosch SI Visual Rules](https://www.bosch-si.com/products/business-rules-management-brm/visual-rules.html)
 - [Signavio Workflow](http://www.signavio.com/products/workflow/)
@@ -148,10 +148,10 @@ Add links through pull requests or create an issue to start a discussion.
 - [XML Process Definition Language (XPDL)](http://www.xpdl.org/)
 
 ## Testing/Validation
-- [BenchFlow](https://github.com/benchflow/benchflow)
-- [betsy](https://github.com/uniba-dsg/betsy) - BPEL/BPMN Engine Test System
+- [BenchFlow](https://github.com/benchflow/benchflow) - Performance and conformance checking for BPEL and BPMN.
+- [betsy](https://github.com/uniba-dsg/betsy) - Engine Test System for BPEL and BPMN.
 - [BPELlint](https://github.com/uniba-dsg/BPELlint) - Validation tool which statically analyzes BPEL files using the statical analysis rules from the BPEL 2.0 specification. Also available as [IntelliJ IDEA plugin](https://github.com/uniba-dsg/BPELlint-idea)
 - [BPELStats](https://github.com/dluebke/bpelstats) - BPELStats is a tool for calculating a variety of BPEL Metrics.
-- [BPELUnit](http://bpelunit.github.io)
+- [BPELUnit](http://bpelunit.github.io) - Unit testing for BPEL
 - [BPMNspector](https://github.com/uniba-dsg/BPMNspector) - Static analysis for BPMN 2.0 process models
 - [BPP](https://github.com/uniba-dsg/bpp) - The BPEL Portability Profile
