@@ -81,6 +81,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [Apache ODE](http://ode.apache.org)
 - [Bizagi Engine](http://www.bizagi.com/en/products/bpm-suite/engine)
 - [Camunda BPM](https://camunda.org) - A production-ready BPMN engine used in many German companies, such as 1&1 Internet and Zalando.
+- [flowable](http://www.flowable.org/) -  BPMN process engine, with accompanying DMN decision tables and CMMN case management engines, all written in Java.
 - [inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
 - [jBPM](http://www.jbpm.org)
 - [Onedecison (DMN)](http://onedecision.io/)
