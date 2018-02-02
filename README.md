@@ -105,15 +105,15 @@ Add links through pull requests or create an issue to start a discussion.
 - [Workflow Patterns](http://www.workflowpatterns.com/) - NOT BPMN specific, but it does list BPMN compatibility for those patterns
 
 ## Mining
-- [Celonis](http://www.celonis.de/en/)
-- [Disco](https://fluxicon.com/disco/)
-- [ProM Tools](http://www.promtools.org/doku.php)
+- [Celonis](https://www.celonis.com/product/) - All-in-one dashboard showing mined processes.
+- [Disco](https://fluxicon.com/disco/) - Fast process mining.
+- [ProM Tools](http://www.promtools.org/doku.php) - The largest body of work for academic process mining.
 
 ## Modeling Tools
 - [Aris Business Process Analysis](http://www.softwareag.com/corporate/products/aris_alfabet/bpa/overview/default.asp)
 - [Bizagi Modeler](http://www.bizagi.com/en/products/bpm-suite/modeler)
-- [bpmn.io](http://bpmn.io/)
-- [Cawemo](https://cawemo.com/)
+- [bpmn.io](http://bpmn.io/) - Open-Source web-based BPMN modeler
+- [Cawemo](https://cawemo.com/) - Commercial offering of the bpmn.io modeler with advanced collaboration features.
 - [Eclipse BPMN Modeler](https://www.eclipse.org/bpmn2-modeler/). Actively developed and high BPMN conformance.
 - [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html)
 - [Fico DMN Modeler](http://www.ficoanalyticcloud.com/platform/fico-dmn-modeler/)
@@ -130,22 +130,22 @@ Add links through pull requests or create an issue to start a discussion.
 
 ### Supportive Tooling
 - [BPMeter](http://benchflow.inf.usi.ch/bpmeter) - Measure the size and structural complexity of your BPMN models through a simple Web application.
-- [BPMNspector-fixSeqFlow](https://github.com/matthiasgeiger/BPMNspector-fixSeqFlow). Fixing Sequence Flow Issues in BPMN models.
+- [BPMNspector-fixSeqFlow](https://github.com/matthiasgeiger/BPMNspector-fixSeqFlow) - Fixing Sequence Flow Issues in BPMN models.
 
 ## Monitoring Tools
-- [IBM Business Monitor](http://www-03.ibm.com/software/products/de/business-monitor)
+- [IBM Business Monitor](http://www-03.ibm.com/software/products/de/business-monitor) - Helps getting insights to data.
 
 ## Process Libraries
-- [Signavio ITIL®2011 Process Library](http://www.signavio.com/products/itil-2011-process-library/)
+- [Signavio ITIL®2011 Process Library](http://www.signavio.com/products/itil-2011-process-library/) -  ITIL®2011 Processes modeled using BPMN.
 
 ## Standards
-- [Business Process Model And Notation (BPMN) Version 2.0](http://www.omg.org/spec/BPMN/2.0/)
-- [Case Management Model And Notation (CMMN) 1.0](http://www.omg.org/spec/CMMN/)
-- [Decision Model And Notation (DMN) 1.1](http://www.omg.org/spec/DMN/)
-- [Web Services Business Process Execution Language (WS-BPEL) Version 2.0](http://docs.oasis-open.org/wsbpel/2.0/OS/wsbpel-v2.0-OS.html)
-- [WS-BPEL Extension for People (BPEL4People) Specification Version 1.1](http://docs.oasis-open.org/bpel4people/bpel4people-1.1.html)
-- [Web Services – Human Task (WS-HumanTask) Specification Version 1.1](http://docs.oasis-open.org/bpel4people/ws-humantask-1.1-spec-cs-01.html)
-- [XML Process Definition Language (XPDL)](http://www.xpdl.org/)
+- [Business Process Model And Notation (BPMN) Version 2.0](http://www.omg.org/spec/BPMN/2.0/) - Most-adopted BPM standard.
+- [Case Management Model And Notation (CMMN) 1.0](http://www.omg.org/spec/CMMN/) - Graphically depict case mamanagement.
+- [Decision Model And Notation (DMN) 1.1](http://www.omg.org/spec/DMN/) - Visually depict business rules.
+- [Web Services Business Process Execution Language (WS-BPEL) Version 2.0](http://docs.oasis-open.org/wsbpel/2.0/OS/wsbpel-v2.0-OS.html) - Well-defined execution semantics for business processes.
+- [WS-BPEL Extension for People (BPEL4People) Specification Version 1.1](http://docs.oasis-open.org/bpel4people/bpel4people-1.1.html) - Specifies how human tasks can be integrated in BPEL with interesting concepts.
+- [Web Services – Human Task (WS-HumanTask) Specification Version 1.1](http://docs.oasis-open.org/bpel4people/ws-humantask-1.1-spec-cs-01.html) - Standard to describe human tasks
+- [XML Process Definition Language (XPDL)](http://www.xpdl.org/) - Laid the groundwork for BPMN 2.0
 
 ## Testing/Validation
 - [BenchFlow](https://github.com/benchflow/benchflow) - Performance and conformance checking for BPEL and BPMN.
