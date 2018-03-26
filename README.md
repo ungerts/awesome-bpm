@@ -98,6 +98,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [jBPM](http://www.jbpm.org)
 - [Onedecison (DMN)](http://onedecision.io/)
 - [ProcessMaker I/O](http://processmaker.io/)
+- [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - List of awesome workflow engines collected by [@meirwah](https://github.com/meirwah/)
 
 
 ## Guidelines
