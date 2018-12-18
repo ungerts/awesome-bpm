@@ -167,5 +167,6 @@ Add links through pull requests or create an issue to start a discussion.
 - [BPELlint](https://github.com/uniba-dsg/BPELlint) - Validation tool which statically analyzes BPEL files using the statical analysis rules from the BPEL 2.0 specification. Also available as [IntelliJ IDEA plugin](https://github.com/uniba-dsg/BPELlint-idea)
 - [BPELStats](https://github.com/dluebke/bpelstats) - BPELStats is a tool for calculating a variety of BPEL Metrics.
 - [BPELUnit](http://bpelunit.github.io) - Unit testing for BPEL
+- [bpmnlint](https://github.com/bpmn-io/bpmnlint) - Validate BPMN diagrams based on configurable lint rules
 - [BPMNspector](https://github.com/uniba-dsg/BPMNspector) - Static analysis for BPMN 2.0 process models
 - [BPP](https://github.com/uniba-dsg/bpp) - The BPEL Portability Profile
