@@ -25,7 +25,6 @@ Add links through pull requests or create an issue to start a discussion.
 - [Mining](#mining)
 - [Modeling Tools](#modeling-tools)
   * [Supportive Tooling](#supportive-tooling)
-- [Monitoring Tools](#monitoring-tools)
 - [Process Libraries](#process-libraries)
 - [Standards](#standards)
 - [Testing/Validation](#testingvalidation)
@@ -131,16 +130,13 @@ Add links through pull requests or create an issue to start a discussion.
 - [ARIS Business Process Analysis](https://aris.com/business-process-analysis/) – Software AG’s flagship BPA platform, supporting BPMN, DMN, simulation, and dashboards.
 - [Bizagi Modeler](https://www.bizagi.com/platform/modeler/) – Free BPMN modeler with collaboration features.
 - [bpmn.io](https://bpmn.io/) – Open‑source web-based BPMN, DMN, CMMN, and form modeller.
-- [Cawemo](https://cawemo.com/) – Commercial version of bpmn.io with team collaboration.
-- [Eclipse BPMN Modeler](https://www.eclipse.org/bpmn2-modeler/) – Eclipse‑based BPMN 2.0 tool (discontinued but still available).
+- [Eclipse BPMN Modeler](https://projects.eclipse.org/projects/technology.bpmn2-modeler) – Eclipse‑based BPMN 2.0 tool (discontinued but still available).
 - [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html) – Full‑feature modeling suite supporting BPMN.
 - [FICO DMN Modeler](https://www.fico.com/en/platform/intelligent-decisions) – Free decision-modeling tool on FICO Analytic Cloud.
 - [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/) – Web‑based diagramming with BPMN support.
 - [SAP Signavio Process Manager](https://www.signavio.com/) – Business process modeling & documentation tool by SAP.
 - [SAP Signavio Process Intelligence](https://www.signavio.com/) – Process mining and analytics platform by SAP.
 - [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software) – Professional diagramming app with BPMN 2.0 support.
-- [MID Process Note](http://www.mid.de/en/process-note.html) – Active process documentation tool by MID.
-- [MID Innovator for Business Analysts](http://www.mid.de/en/products/innovator-for-business-analysts.html) – Active process modeling tool by MID.
 - [Modelio](https://www.modelio.org/) – Open‑source UML/BPMN modeling environment.
 - [Trisotech](https://www.trisotech.com/) – Enterprise-grade web-based BPMN, DMN, and CMMN modeling platform.
 - [Visual Paradigm](https://www.visual-paradigm.com/) – Full-featured modeling tool supporting BPMN, UML, ArchiMate, and more.
@@ -148,14 +144,12 @@ Add links through pull requests or create an issue to start a discussion.
 - [Camunda Modeler](https://camunda.com/platform/modeler/) – Free desktop and web-based BPMN & DMN modeller, part of Camunda Platform.
 
 ### Supportive Tooling
-- [BPMeter](http://benchflow.inf.usi.ch/bpmeter) - Measure the size and structural complexity of your BPMN models through a simple Web application.
+- [BPMeter](https://design.inf.usi.ch/software/bpmeter) - Measure the size and structural complexity of your BPMN models through a simple Web application.
 - [BPMNspector-fixSeqFlow](https://github.com/matthiasgeiger/BPMNspector-fixSeqFlow) - Fixing Sequence Flow Issues in BPMN models.
 
-## Monitoring Tools
-- [IBM Business Monitor](http://www-03.ibm.com/software/products/de/business-monitor) - Helps getting insights to data.
 
 ## Process Libraries
-- [SAP Signavio Process Library](https://www.signavio.com/) - Pre-built process templates and ITIL process models (formerly Signavio ITIL Process Library).
+- [SAP Signavio Reference Models](https://www.signavio.com/reference-models/) 
 
 ## Standards
 
