@@ -96,8 +96,9 @@ Add links through pull requests or create an issue to start a discussion.
 - [Camunda 7 Community Edition](https://github.com/camunda/camunda-bpm-platform) - Camunda Platform 7 is a flexible framework for workflow and process automation. Its core is a native BPMN 2.0 process engine that runs inside the Java Virtual Machine. Originally forked from Activiti. EOL is October 2025 for Community Edition, [April 2030 for Enterprise](https://camunda.com/blog/2025/02/camunda-7-enterprise-end-of-life-extension/).
 - [CIB seven 2.0](https://cibseven.org/) - Fork of Camunda 7 Community Edition.
 - [flowable](http://www.flowable.org/) -  BPMN process engine, with accompanying DMN decision tables and CMMN case management engines, all written in Java.
-- [inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
+- [Virtimo Inubit](https://www.virtimo.de/en/inubit/) - Low-code integration and BPM platform (formerly Bosch SI Inubit, acquired by Virtimo AG).
 - [jBPM](http://www.jbpm.org)
+- [Kogito](https://kogito.kie.org/) - Cloud-native business automation toolkit for building intelligent business applications.
 - [Onedecison (DMN)](http://onedecision.io/)
 - [Operaton](https://operaton.org/) - Fork of Camunda 7 Community Edition.
 - [Temporal](https://temporal.io/) - Microservice orchestration platform for running mission-critical code.
