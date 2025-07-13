@@ -66,6 +66,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [Bonita BPM](http://www.bonitasoft.com/products-v2#about-bonita-bpm) - A comprehensive BPM suite.
 - [Bosch SI Inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
 - [Bosch SI Visual Rules](https://www.bosch-si.com/products/business-rules-management-brm/visual-rules.html)
+- [Camunda 8](https://camunda.com/platform/) - Cloud-native process automation platform with BPMN, DMN, and forms capabilities.
 - [Signavio Workflow](http://www.signavio.com/products/workflow/)
 - [IBM Business Process Manager](http://www-03.ibm.com/software/products/de/business-process-manager-family)
 - [IBM Operational Decision Manager](http://www-03.ibm.com/software/products/en/odm)
@@ -92,11 +93,13 @@ Add links through pull requests or create an issue to start a discussion.
 - [Activiti](http://activiti.org/)
 - [Apache ODE](http://ode.apache.org)
 - [Bizagi Engine](http://www.bizagi.com/en/products/bpm-suite/engine)
-- [Camunda BPM](https://camunda.org) - A production-ready BPMN engine used in many German companies, such as 1&1 Internet and Zalando.
+- [Camunda 7 Community Edition](https://github.com/camunda/camunda-bpm-platform) - Camunda Platform 7 is a flexible framework for workflow and process automation. Its core is a native BPMN 2.0 process engine that runs inside the Java Virtual Machine. Originally forked from Activiti. EOL is October 2025 for Community Edition, [April 2030 for Enterprise](https://camunda.com/blog/2025/02/camunda-7-enterprise-end-of-life-extension/).
+- [CIB seven 2.0](https://cibseven.org/) - Fork of Camunda 7 Community Edition.
 - [flowable](http://www.flowable.org/) -  BPMN process engine, with accompanying DMN decision tables and CMMN case management engines, all written in Java.
 - [inubit BPM](https://www.bosch-si.com/products/business-process-management-bpm/business-process-management.html)
 - [jBPM](http://www.jbpm.org)
 - [Onedecison (DMN)](http://onedecision.io/)
+- [Operaton](https://operaton.org/) - Fork of Camunda 7 Community Edition.
 - [ProcessMaker I/O](http://processmaker.io/)
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - List of awesome workflow engines collected by [@meirwah](https://github.com/meirwah/)
 
