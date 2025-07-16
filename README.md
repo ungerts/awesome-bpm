@@ -25,6 +25,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [Mining](#mining)
 - [Modeling Tools](#modeling-tools)
   * [Supportive Tooling](#supportive-tooling)
+- [Operations and Administration](#operations-and-administration)
 - [Process Libraries](#process-libraries)
 - [Standards](#standards)
 - [Testing/Validation](#testingvalidation)
@@ -61,7 +62,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [ProcessMaker I/O](http://processmaker.io)
 
 ## BPM Platforms/Suites
-- [Appian BPM](https://appian.com/learn/topics/business-process-management/what-is-business-process-management) – An all‑in‑one BPM solution, the “Leader in Low‑Code BPM”.
+- [Appian BPM](https://appian.com/learn/topics/business-process-management/what-is-business-process-management) – An all‑in‑one BPM solution, the "Leader in Low‑Code BPM".
 - [Bizagi Studio](https://www.bizagi.com/platform/studio/) – Complete BPM suite with modeling, automation, and execution capabilities.
 - [Bonita BPM](https://www.bonitasoft.com/) – A comprehensive BPM suite by Bonitasoft.
 - [ACTICO Platform](https://www.actico.com/platform/) – Business rules & decision management platform (formerly Bosch SI Visual Rules).
@@ -70,12 +71,13 @@ Add links through pull requests or create an issue to start a discussion.
 - [IBM Business Process Manager](https://www.ibm.com/docs/en/bpm/8.6.0) – Enterprise-grade BPM offering from IBM.
 - [Pega Platform](https://www.pega.com/products/platform) – Low‑code platform for workflow automation and case management.
 - [ProcessMaker BPM](https://www.processmaker.com/) – Open and flexible BPM solution.
-- [jBPM (formerly Red Hat JBoss BPM Suite)](https://www.jbpm.org/) – Red Hat’s open-source BPM toolkit and successor to JBoss BPM Suite.
+- [jBPM (formerly Red Hat JBoss BPM Suite)](https://www.jbpm.org/) – Red Hat's open-source BPM toolkit and successor to JBoss BPM Suite.
 - [TIBCO ActiveMatrix BPM](https://www.tibco.com/products/automation/business-process-management/activematrix-bpm) – Full-featured BPM offering.
 - [Virtimo Inubit BPM](https://www.virtimo.de/en/inubit/) – Former Bosch SI Inubit BPM now managed by Virtimo AG.
 - [Intalio BPMS](https://www.intalio.com/products/process-management/) – BPM and process automation software.
 - [Edorasware (Edoras One)](https://documentation.edorasware.com/) – Integrated BPM + case/content management.
 - [SoftProject X4 BPMS](https://www.softproject.de/en/x4-bpms/) – Low-code BPM platform from SoftProject.
+- [OpenBPM Workspace](https://openbpm.io/) – On-premises process portal operating on a modern tech stack.
 - [OpenText Process (Automation) Suite](https://www.opentext.com/products/process-automation) – Low-code process automation and case management platform.
 - [Oracle Business Process Management Suite 12c](https://www.oracle.com/middleware/technologies/bpm.html) – Enterprise BPM platform, latest version 12.2.x.
 
@@ -99,7 +101,8 @@ Add links through pull requests or create an issue to start a discussion.
 - [Virtimo Inubit](https://www.virtimo.de/en/inubit/) - Low-code integration and BPM platform (formerly Bosch SI Inubit, acquired by Virtimo AG).
 - [jBPM](http://www.jbpm.org)
 - [Kogito](https://kogito.kie.org/) - Cloud-native business automation toolkit for building intelligent business applications.
-- [Onedecison (DMN)](http://onedecision.io/)
+- [Onedecision (DMN)](http://onedecision.io/)
+- [OpenBPM Engine](https://openbpm.io/) - BPM engine based on open source Camunda 7
 - [Operaton](https://operaton.org/) - Fork of Camunda 7 Community Edition.
 - [Temporal](https://temporal.io/) - Microservice orchestration platform for running mission-critical code.
 - [Zeebe](https://camunda.com/platform/zeebe/) - Cloud-native workflow engine for microservices orchestration.
@@ -128,26 +131,29 @@ Add links through pull requests or create an issue to start a discussion.
 - [ProM Tools](http://www.promtools.org/doku.php) - The largest body of work for academic process mining.
 
 ## Modeling Tools
-- [ARIS Business Process Analysis](https://aris.com/business-process-analysis/) – Software AG’s flagship BPA platform, supporting BPMN, DMN, simulation, and dashboards.
+- [ARIS Business Process Analysis](https://aris.com/business-process-analysis/) – Software AG's flagship BPA platform, supporting BPMN, DMN, simulation, and dashboards.
 - [Bizagi Modeler](https://www.bizagi.com/platform/modeler/) – Free BPMN modeler with collaboration features.
 - [bpmn.io](https://bpmn.io/) – Open‑source web-based BPMN, DMN, CMMN, and form modeller.
-- [Eclipse BPMN Modeler](https://projects.eclipse.org/projects/technology.bpmn2-modeler) – Eclipse‑based BPMN 2.0 tool (discontinued but still available).
+- [Eclipse BPMN Modeler](https://projects.eclipse.org/projects/technology.bpmn2-modeler) – Eclipse‑based BPMN 2.0 tool (discontinued but still available).
 - [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html) – Full‑feature modeling suite supporting BPMN.
 - [FICO DMN Modeler](https://www.fico.com/en/platform/intelligent-decisions) – Free decision-modeling tool on FICO Analytic Cloud.
 - [Gliffy](https://www.gliffy.com/uses/business-process-modeling-software/) – Web‑based diagramming with BPMN support.
 - [SAP Signavio Process Manager](https://www.signavio.com/) – Business process modeling & documentation tool by SAP.
 - [SAP Signavio Process Intelligence](https://www.signavio.com/) – Process mining and analytics platform by SAP.
-- [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software) – Professional diagramming app with BPMN 2.0 support.
+- [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software) – Professional diagramming app with BPMN 2.0 support.
 - [Modelio](https://www.modelio.org/) – Open‑source UML/BPMN modeling environment.
+- [OpenBPM Studio](https://openbpm.io/) – Professional IDE for developing enterprise-grade process applications.
 - [Trisotech](https://www.trisotech.com/) – Enterprise-grade web-based BPMN, DMN, and CMMN modeling platform.
 - [Visual Paradigm](https://www.visual-paradigm.com/) – Full-featured modeling tool supporting BPMN, UML, ArchiMate, and more.
-- [Yaoqiang BPMN Editor](http://bpmn.sourceforge.net/) – Desktop BPMN editor compliant with BPMN 2.0.
+- [Yaoqiang BPMN Editor](http://bpmn.sourceforge.net/) – Desktop BPMN editor compliant with BPMN 2.0.
 - [Camunda Modeler](https://camunda.com/platform/modeler/) – Free desktop and web-based BPMN & DMN modeller, part of Camunda Platform.
 
 ### Supportive Tooling
 - [BPMeter](https://design.inf.usi.ch/software/bpmeter) - Measure the size and structural complexity of your BPMN models through a simple Web application.
 - [BPMNspector-fixSeqFlow](https://github.com/matthiasgeiger/BPMNspector-fixSeqFlow) - Fixing Sequence Flow Issues in BPMN models.
 
+## Operations and Administration
+- [OpenBPM Control](https://openbpm.io/) – Specialized admin environment for maintaining and supporting process applications without workflow interruptions.
 
 ## Process Libraries
 - [SAP Signavio Reference Models](https://www.signavio.com/reference-models/) 
