@@ -151,6 +151,7 @@ Add links through pull requests or create an issue to start a discussion.
 ### Supportive Tooling
 - [BPMeter](https://design.inf.usi.ch/software/bpmeter) - Measure the size and structural complexity of your BPMN models through a simple Web application.
 - [BPMNspector-fixSeqFlow](https://github.com/matthiasgeiger/BPMNspector-fixSeqFlow) - Fixing Sequence Flow Issues in BPMN models.
+- [bpmn-to-code](https://github.com/emaarco/bpmn-to-code) - Gradle and Maven plugin that generates type-safe APIs from BPMN models across multiple engines. Ships with process unit-testing utilities and AI skills to accelerate development.
 
 ## Operations and Administration
 - [OpenBPM Control](https://openbpm.io/) – Specialized admin environment for maintaining and supporting process applications without workflow interruptions.
