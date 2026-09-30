@@ -123,6 +123,7 @@ Add links through pull requests or create an issue to start a discussion.
 
 ## Methods
 - [Behavior-driven Business Process Development with BPMN](https://speakerdeck.com/vanto/behavior-driven-business-process-development-with-bpmn)
+- [How to test missing exceptions and contradictory business rules](https://rulefoundry.com/blog/how-we-test-rulefoundry-for-hidden-exceptions-and-false-confidence/) - A constructed purchasing-policy example for reviewing boundary cases, missing exceptions, precedence and unsupported assumptions before implementation.
 - [Workflow Patterns](http://www.workflowpatterns.com/) - NOT BPMN specific, but it does list BPMN compatibility for those patterns
 
 ## Mining
