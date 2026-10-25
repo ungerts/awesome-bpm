@@ -131,6 +131,7 @@ Add links through pull requests or create an issue to start a discussion.
 - [ProM Tools](http://www.promtools.org/doku.php) - The largest body of work for academic process mining.
 
 ## Modeling Tools
+- [AIxFlow](https://aixflow.aixlab.de) – BPMN 2.0 modeler for iPad with tap-to-build editing, auto-layout, model validation and .bpmn import/export (freemium).
 - [ARIS Business Process Analysis](https://aris.com/business-process-analysis/) – Software AG's flagship BPA platform, supporting BPMN, DMN, simulation, and dashboards.
 - [Bizagi Modeler](https://www.bizagi.com/platform/modeler/) – Free BPMN modeler with collaboration features.
 - [bpmn.io](https://bpmn.io/) – Open‑source web-based BPMN, DMN, CMMN, and form modeller.
