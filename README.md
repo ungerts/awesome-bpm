@@ -128,6 +128,7 @@ Add links through pull requests or create an issue to start a discussion.
 ## Mining
 - [Celonis](https://www.celonis.com/product/) - All-in-one dashboard showing mined processes.
 - [Disco](https://fluxicon.com/disco/) - Fast process mining.
+- [ProcessMind](https://processmind.com/) - Browser-based process mining, BPMN 2.0 modeling and what-if simulation in one platform, with a free plan.
 - [ProM Tools](http://www.promtools.org/doku.php) - The largest body of work for academic process mining.
 
 ## Modeling Tools
